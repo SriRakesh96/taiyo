@@ -9,7 +9,7 @@ include('doctype.php');
 <head>
   <meta name="description" content="Explore the frequently asked questions (FAQs) about Taiyo Labs and our testing services. Find answers to common inquiries regarding quality control, laboratory procedures, and more.">
   <meta name="keywords" content="Taiyo Labs, FAQs, Frequently Asked Questions, Testing services, Quality control, Laboratory procedures, Testing process">
-  <title>FAQs - Taiyo Labs</title>	
+  <title>FAQs - Taiyo Labs Visakhapatnam</title>	
 <?php
 
 include('head.php');

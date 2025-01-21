@@ -1,0 +1,52 @@
+[04-Jan-2025 10:51:51 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:51:51 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 85
+[04-Jan-2025 10:51:51 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:51:51 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:56:04 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:56:04 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 85
+[04-Jan-2025 10:56:04 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:56:04 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:56:04 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:58:31 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:58:31 Asia/Kolkata] PHP Warning:  Undefined variable $citiesSeen in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:58:31 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php:83
+Stack trace:
+#0 /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php(83): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:15 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:15 Asia/Kolkata] PHP Warning:  Undefined variable $citiesSeen in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php:83
+Stack trace:
+#0 /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php(83): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 85
+[04-Jan-2025 10:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 10:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:01:08 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:01:08 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 85
+[04-Jan-2025 11:01:08 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:01:08 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:01:08 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:02:22 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:02:22 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:02:22 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:02:22 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:03:18 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:03:18 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:03:18 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 11:03:18 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 12:41:39 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 12:41:39 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 12:41:39 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[04-Jan-2025 12:41:39 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[09-Jan-2025 16:15:55 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[09-Jan-2025 16:15:55 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[09-Jan-2025 16:15:55 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[09-Jan-2025 16:15:55 Asia/Kolkata] PHP Warning:  Undefined array key "area" in /home3/taiyo4hb/public_html/portal/admin/add_branchlogin.php on line 83
+[09-Jan-2025 16:20:22 Asia/Kolkata] PHP Warning:  Undefined variable $fetch_pass in /home3/taiyo4hb/public_html/portal/admin/login_pro.php on line 22
+[09-Jan-2025 16:20:43 Asia/Kolkata] PHP Warning:  Undefined variable $fetch_pass in /home3/taiyo4hb/public_html/portal/admin/login_pro.php on line 22
+[09-Jan-2025 16:20:46 Asia/Kolkata] PHP Warning:  Undefined variable $fetch_pass in /home3/taiyo4hb/public_html/portal/admin/login_pro.php on line 22

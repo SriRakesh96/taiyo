@@ -1,0 +1,44 @@
+# Enable the RewriteEngine
+RewriteEngine On
+
+# Remove .php extension from URL
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Redirect requests for .php files to their clean URLs
+RewriteCond %{THE_REQUEST} \s([^.]+)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Optional: Redirect www to non-www (or vice versa)
+# Uncomment the following lines if you want to enforce www or non-www
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+# Optional: Set default character set
+AddDefaultCharset UTF-8
+
+# Optional: Disable directory listing
+Options -Indexes
+
+# Optional: Custom error pages
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
+
+# Optional: Security headers (if supported)
+# Header set X-Content-Type-Options "nosniff"
+# Header set X-XSS-Protection "1; mode=block"
+# Header set X-Frame-Options "DENY"
+# Header set Content-Security-Policy "default-src 'self';"
+
+# Optional: Cache control for static files (adjust as needed)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 1 month"
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType application/x-javascript "access plus 1 month"
+</IfModule>

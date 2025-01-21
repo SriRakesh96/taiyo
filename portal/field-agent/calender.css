@@ -1,0 +1,64 @@
+/* Styling for the calendar */
+.men{
+    
+    display:flex;
+        justify-content: space-evenly;
+        margin:20px 0px;
+    }
+    
+    .mnth{
+        
+        font-weight:700;
+            font-size: 23px;
+    color: #133b69;
+    }
+    
+    .men .btn{
+        
+        background-color: #133b69;
+        border: 1px solid #133b69;
+    }
+    
+    .calendar {
+    border: 1px solid #e6e9ea;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.calendar .header {
+   
+    padding: 10px;
+    background-color: #133b69;
+    color: #fff;
+}
+.calendar .header .btn {
+    color: #fff;
+}
+.calendar .days {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.calendar .days .day_name, .calendar .days .day_num {
+    width: calc(100% / 7);
+    padding: 10px;
+    font-weight: bold;
+}
+.calendar .days .day_name {
+    background-color: #133b69;
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.calendar .days .day_num {
+    border: 1px solid #e6e9ea;
+    color: #333;
+    position: relative;
+}
+.calendar .days .day_num .event {
+    background-color: #f7c30d;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-top: 5px;
+    padding: 2px 5px;
+}

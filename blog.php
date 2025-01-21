@@ -9,7 +9,7 @@ include('doctype.php');
 <head>
 	<meta name="description" content="Explore the latest blogs from Taiyo Labs covering a wide range of topics related to testing, analysis, and research. Stay informed with valuable insights and updates from our experts.">
   <meta name="keywords" content="Taiyo Labs, Blogs, Testing, Analysis, Research, Insights">
-  <title>Blogs - Taiyo Labs</title>
+  <title>Blogs - Taiyo Labs Visakhapatnam</title>
 <?php
 
 include('head.php');
